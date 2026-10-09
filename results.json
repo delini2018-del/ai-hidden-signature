@@ -1,0 +1,118 @@
+{
+ "n_texts": 200,
+ "length": {
+  "0.0": {
+   "10": 0.0,
+   "25": 0.0,
+   "50": 0.0,
+   "100": 0.0,
+   "200": 0.0
+  },
+  "1.0": {
+   "10": 0.0,
+   "25": 0.015,
+   "50": 0.075,
+   "100": 0.475,
+   "200": 0.955
+  },
+  "2.0": {
+   "10": 0.0,
+   "25": 0.175,
+   "50": 0.825,
+   "100": 1.0,
+   "200": 1.0
+  },
+  "4.0": {
+   "10": 0.0,
+   "25": 0.95,
+   "50": 1.0,
+   "100": 1.0,
+   "200": 1.0
+  }
+ },
+ "train_tokens": 1531668,
+ "vocab": 31814,
+ "examples": {
+  "0.0": "summit of the animus with which he holds not answer is forced from his good wife , uncle ? surely now at her heart would relent when that he has been accustomed to parry mr . the scene to inspire confidence . he is a question which i cannot want leisure to look for alfred's premium i had just witnessed",
+  "1.0": "not supposing the truth she answered , in such new occasion of . herbert , meanwhile , councils went on with their eyes and this ingenious mechanism of ifs and therefores for the rousing those within her turn . judging of that you have heretofore seen majestic bulk and power to this natural line ; preserve your sister was a",
+  "2.0": "it has often been argued whether he relied on the high places in some danger , not got incompatible with poetic love ; breaking in his forefinger at mr . phillips and again rolled sulkily at his best suit of yours , and but in need of compassion which one of the christian man can't find it being a country",
+  "4.0": "all pleasure and admiration and all smelling those leather books and that was disagreeable to her shyness . they persisted in a delirious but little harriet . it will make use no , except in which the same , they seldom displays the ladies were to the ships sail up stairs window let us , and take belladonna , ever"
+ },
+ "mean_z": {
+  "0.0": {
+   "10": -0.06640783086353598,
+   "25": -0.06799999999999999,
+   "50": -0.04808326112068523,
+   "100": 0.061,
+   "200": 0.017722030125208378
+  },
+  "1.0": {
+   "10": 1.1858541225631423,
+   "25": 1.9880000000000002,
+   "50": 2.788829144999744,
+   "100": 3.9709999999999996,
+   "200": 5.554084241240312
+  },
+  "2.0": {
+   "10": 2.1598356418950027,
+   "25": 3.3739999999999997,
+   "50": 4.756000210260718,
+   "100": 6.79,
+   "200": 9.629442288833234
+  },
+  "4.0": {
+   "10": 2.9345936686362557,
+   "25": 4.648,
+   "50": 6.605791549844728,
+   "100": 9.318000000000001,
+   "200": 13.122808867114315
+  }
+ },
+ "log_ppl": {
+  "0.0": 3.5310095629448996,
+  "1.0": 3.5658733339503637,
+  "2.0": 3.655840229271428,
+  "4.0": 3.796030389887451
+ },
+ "human": {
+  "n": 1346,
+  "fpr_z4": 0.0,
+  "max_z": 3.111269837220809,
+  "mean_z": -0.09939420728119969
+ },
+ "substitution": {
+  "0": {
+   "detect": 1.0,
+   "mean_z": 9.629442288833234
+  },
+  "0.1": {
+   "detect": 1.0,
+   "mean_z": 7.77855346255647
+  },
+  "0.2": {
+   "detect": 0.985,
+   "mean_z": 6.013439262085714
+  },
+  "0.3": {
+   "detect": 0.74,
+   "mean_z": 4.597094614479058
+  },
+  "0.4": {
+   "detect": 0.35,
+   "mean_z": 3.463593567670729
+  },
+  "0.5": {
+   "detect": 0.045,
+   "mean_z": 2.2755086680767587
+  },
+  "0.6": {
+   "detect": 0.01,
+   "mean_z": 1.5262212343829469
+  }
+ },
+ "emoji_trick": {
+  "detect": 0.0,
+  "mean_z": 0.009924336870116708,
+  "z_if_filler_kept": 0.7839000000000002
+ }
+}
